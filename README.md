@@ -2,7 +2,7 @@
 
 A tutorial implementation demonstrating promptable, zero-shot object segmentation and multi-frame mask propagation on static images and video sequences using **Segment Anything Model 2.1 (SAM2.1)**, accessed via the Ultralytics inference wrapper.
 
-This is a **learning/practice exercise**, not a production-grade or original research project. The goal is to explore and understand how SAM2.1's promptable segmentation and video mask-propagation APIs work in practice, using pretrained weights and a high-level wrapper library rather than building or training a model from scratch. No original model development, fine-tuning, or novel methodology is involved — the value here is hands-on familiarity with the SAM2 workflow, not a deployable system.
+The goal is to explore and understand how SAM2.1's promptable segmentation and video mask-propagation APIs work, using pretrained weights and a high-level wrapper library rather than building or training a model from scratch. No original model development, fine-tuning, or novel methodology is involved — the value here is hands-on familiarity with the SAM2 workflow, not a deployable system.
 
 
 ## 1. Overview
